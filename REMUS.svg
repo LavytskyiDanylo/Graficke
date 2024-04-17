@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="REMUS.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.5393939"
+     inkscape:cx="368.00197"
+     inkscape:cy="481.68307"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1808"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1806" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1658"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke-width:1.1"
+       id="rect286"
+       width="210"
+       height="151.59375"
+       x="1.4210855e-14"
+       y="52.937489" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;stroke-width:1.1"
+       id="path791"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="99.171722"
+       sodipodi:cy="143.89622"
+       sodipodi:r1="18.838776"
+       sodipodi:r2="9.4193916"
+       sodipodi:arg1="-0.93537515"
+       sodipodi:arg2="-0.30705662"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 110.35285,128.73437 -2.20231,12.3148 8.89612,8.79567 -12.39262,1.71096 -5.616122,11.17873 -5.45676,-11.25737 -12.367072,-1.88684 9.020162,-8.6684 -2.027151,-12.34485 11.031527,5.9 z"
+       inkscape:transform-center-x="-1.0033807"
+       inkscape:transform-center-y="-6.9532796"
+       transform="matrix(-0.26478401,1.4509335,-1.3825765,-0.29010214,384.1091,-23.457187)" />
+    <g
+       id="g1580">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.9312px;font-family:Elephant;-inkscape-font-specification:'Elephant Bold';fill:#ffffff;stroke-width:0.486786"
+         id="text847"
+         transform="matrix(1.650687,-0.75996671,0.83614326,1.6291572,313.37988,-360.70675)"><textPath
+           xlink:href="#path1685"
+           id="textPath1687"><tspan
+             id="tspan845"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Elephant;-inkscape-font-specification:'Elephant Bold';stroke-width:0.486786">REMUS</tspan></textPath></text>
+      <ellipse
+         style="fill:none;stroke:#ffffff;stroke-width:1.87448"
+         id="path1685"
+         cx="-21.199093"
+         cy="-325.43744"
+         transform="matrix(-0.83643734,-0.54806256,0.68038478,-0.73285507,0,0)"
+         rx="70.218391"
+         ry="67.328094" />
+    </g>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1.1002;stroke-opacity:1"
+       d="m 62.073511,170.20822 5.288617,-11.54569 12.461681,-18.29083 1.033408,-1.823 5.896503,-5.59055 15.50111,-14.76635 16.41295,-10.14805 7.59859,-4.37522 20.13636,-10.007643 0.45808,-9.238592 -10.87555,-8.866117 -6.31473,2.286445 -16.41294,7.474324 -21.762353,14.523274 -4.255209,2.977569 -7.416219,6.98819 -14.224554,13.55101 -16.412947,23.456 -8.449627,17.86545 9.543824,3.88907 10.455655,4.37522 z"
+       id="path1804" />
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.961134;stroke-opacity:1"
+       d="m 89.191261,130.69967 v 45.13104 l 3.412488,-0.0822 0.605877,-50.26333 z"
+       id="path3385" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.977263;stroke-opacity:1"
+       id="rect3387"
+       width="57.817104"
+       height="1.6670301"
+       x="83.355576"
+       y="175.76932" />
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.1;stroke-opacity:1"
+       d="m 136.33839,98.664645 -4.56991,2.272035 1.12403,74.34401 h 4.43561 z"
+       id="path3411" />
+  </g>
+</svg>
